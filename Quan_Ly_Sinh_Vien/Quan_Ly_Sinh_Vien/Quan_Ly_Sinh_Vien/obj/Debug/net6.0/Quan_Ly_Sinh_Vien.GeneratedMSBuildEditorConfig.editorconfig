@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Quan_Ly_Sinh_Vien
+build_property.RootNamespace = Quan_Ly_Sinh_Vien
+build_property.ProjectDir = C:\Users\hp\Documents\Zalo Received Files\Quan-Ly-Sinh-Vien-\Quan-Ly-Sinh-Vien-\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\Documents\Zalo Received Files\Quan-Ly-Sinh-Vien-\Quan-Ly-Sinh-Vien-\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DangKy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ0t5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DangNhap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DiemHocPhan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUhvY1BoYW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DiemHocPhan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUhvY1BoYW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DiemHocPhan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUhvY1BoYW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DiemHocPhan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUhvY1BoYW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/DiemHocPhan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbUhvY1BoYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/HocPhi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jUGhpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/HocPhi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jUGhpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/HocPhi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jUGhpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/HocPhi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jUGhpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/HocPhi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jUGhpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LichHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaEhvY1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LichHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaEhvY1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LichHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaEhvY1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LichHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaEhvY1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LichHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaEhvY1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LopHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LopHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LopHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LopHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/LopHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/MonHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/MonHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/MonHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/MonHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/MonHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Shared/_LayoutFoot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRGb290LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Shared/_LayoutHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/SinhVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/SinhVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/SinhVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/SinhVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/SinhVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Zalo Received Files/Quan-Ly-Sinh-Vien-/Quan-Ly-Sinh-Vien-/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Quan_Ly_Sinh_Vien/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
